@@ -1,0 +1,15 @@
+{
+  "name": "Polysent Bot",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A Twitter bot, written in JavaScript and made by @_mkos, to tweet new polls every 120,000 milliseconds.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Kosloski",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.2"
+  }
+}
